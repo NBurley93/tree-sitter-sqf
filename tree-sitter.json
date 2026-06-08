@@ -10,7 +10,8 @@
         "sqf"
       ],
       "injection-regex": "^sqf$",
-      "class-name": "TreeSitterSqf"
+      "class-name": "TreeSitterSqf",
+      "highlights": "queries/sqf/highlights.scm"
     }
   ],
   "metadata": {
